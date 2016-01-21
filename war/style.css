@@ -1,0 +1,24 @@
+.logoImg{
+	height:70px;padding-left:-10px;padding-top:15px;padding-right:40px;
+}
+.headerTitle{
+padding-top:10px;padding-right:200px;padding-left:0px;
+}
+
+.about{
+height:50px;background-color:yellow;
+}
+.button-custom{
+	background-color:white !important;
+}
+.signal-on{
+	color:green !important;font-size:auto !important; 
+}
+.signal-off{
+
+	color:red !important;font-size:auto !important;
+}
+.double-input .form-control {
+    width: 50%;
+    border-right-width: 0px;
+} 

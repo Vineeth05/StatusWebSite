@@ -1,0 +1,38 @@
+.logindesign{
+     padding: 30px;
+	 /*background-color: white;
+	  border: 1px solid gray; 
+	  width: 400px; 
+	  margin: 100px 0 0 500px; */
+	border-bottom: 1px solid lightgray;
+	position: relative;
+}
+.button{
+	border: 1px solid lightgray;
+	padding: 5px;
+	font-weight: 10px;
+	border-radius : 2px;
+	font-size: 15px;
+	margin-top: 10px;
+	color: white;
+	width: 250px; 
+	margin-left: 5px;
+	background-color: #58a6d6;
+	font-family: Segoe Print;
+	cursor: pointer;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+}
+#content{
+  position: absolute;
+  background-color:white;
+  border: 1px solid gray; 
+  /* width: auto; */
+  margin-top: 100px;
+  margin-left: 500px;   
+ /*  border-bottom: 1px solid lightgray; */
+  
+}
